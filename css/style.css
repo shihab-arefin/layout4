@@ -1,0 +1,55 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.header{
+    height: 150px;
+    background-color:antiquewhite;
+    color: black;
+    text-align: center;
+
+}
+.banner{
+   height: 100px;
+   background-color: gray;
+
+}
+.body{
+   display: flex;
+   height: 1000px;
+}
+.body_left{
+   width:20%;
+   background-color: blueviolet;
+   height: 100%;
+}
+.nav_top{
+   height: 40%;
+   background-color: white;
+}
+.nav_bottom{
+   height: 60%;
+   background-color: black;
+}
+.body_right{
+   width: 80%;
+   background-color: brown;
+   height: 100%;
+}
+.content_top{
+   height: 75%;
+   background-color: aquamarine;
+}
+.content_bottom{
+   height: 25%;
+   background-color: blueviolet;
+   display: flex;
+}
+.bottom_left{
+   width: 60%;
+   background-color: chartreuse;
+}
+.bottom_right{
+   width: 40%;
+   background-color: brown;
+}
